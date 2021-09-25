@@ -2,14 +2,21 @@
   "name": "learn-starter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://samzhang0921.github.io/just-eat-search",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "predeply": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "config": "^3.3.6",
+    "fela": "^11.6.1",
+    "lodash.debounce": "^4.0.8",
     "next": "^11.0.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-fela": "^11.6.1"
   }
 }

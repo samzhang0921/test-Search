@@ -1,0 +1,6 @@
+{
+  "searchApi": {
+    "baseUrl": "http://localhost:8010/proxy/",
+    "restaurantsByPostcodeUrl": "restaurants/bypostcode/"
+  }
+}
