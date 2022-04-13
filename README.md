@@ -1,4 +1,4 @@
-# Welcome Just Eat search app for test
+# Welcome Just Eat search app 
 
 this app mainly is use React.js, Next.js and Fela (css) 
 
