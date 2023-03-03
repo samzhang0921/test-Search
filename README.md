@@ -1,4 +1,4 @@
-# Welcome Just Eat search app 
+# Welcome Test search app 
 
 this app mainly is use React.js, Next.js and Fela (css) 
 
@@ -16,7 +16,7 @@ npm install -g local-cors-proxy
 Start Proxy:
 
 ```
-lcp --proxyUrl https://uk.api.just-eat.io/
+lcp --proxyUrl 
 ```
 Run App:
 
